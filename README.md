@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to deploy cloud infrastructure using code through [@aws-cdk](https://github.com/aws/aws-cdk)
 - 📚 I’m beginning a masters at Cornell Tech this fall, focusing on learning about startups and machine learning!
 - 💬 Ask me about TypeScript, serverless functions, or the compiler I built!
-- 📫 How to reach me: email, LinkedIn, or Twitter (see sidebar)
+- 📫 How to reach me: email (available on my website), [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic_)!
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I enjoy cooking and trying new kinds of sushi! 🍣
