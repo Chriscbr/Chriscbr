@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about TypeScript, serverless functions, or the compiler I built!
 - 📫 How to reach me: email (on my website), [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun facts: I enjoy cooking and trying new kinds of sushi! 🍣
+- ⚡ Fun facts: I enjoy cooking, and trying new kinds of sushi! 🍣
