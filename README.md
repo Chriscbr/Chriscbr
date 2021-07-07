@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscbr&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 📚 I’m currently pursuing a Masters at Cornell Tech, learning about topics like startups and machine learning!
-- 🔨 I enjoy contributing to open source projects like the [AWS CDK](https://github.com/aws/aws-cdk) and [projen](https://github.com/projen/projen)!
-- 💬 Ask me about TypeScript, serverless functions, or the compiler I built!
+- 🔨 I'm currently working at AWS to build and improve upon the [construct ecosystem](https://github.com/cdklabs/).
 - 📫 How to reach me: email (on my website), [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I enjoy cooking, and trying new kinds of sushi! 🍣
