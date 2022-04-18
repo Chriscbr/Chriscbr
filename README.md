@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔨 I'm currently working at AWS to build developer tools and abstractions for the [CDK](https://github.com/aws/aws-cdk) ecosystem.
-- 📫 How to reach me: email (on my website), [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
+- 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I enjoy cooking, watching movies, and trying new kinds of sushi! 🍣
