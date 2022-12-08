@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscbr&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 🔨 I'm currently working at AWS to build developer tools and abstractions for the [CDK](https://github.com/aws/aws-cdk) ecosystem.
+- 🔨 I'm currently working at Monada to build a new cloud programming language named [Wing](https://www.winglang.io/)!
 - 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I enjoy cooking, watching movies, and trying new kinds of sushi! 🍣
