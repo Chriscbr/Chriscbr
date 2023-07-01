@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔨 I'm currently working at Monada to build a new cloud programming language named [Wing](https://www.winglang.io/)!
+- ✍️ I sometimes write about software engineering and other topics on my [blog](https://rybicki.io/blog/) and on [Twitter](https://twitter.com/rybickic).
 - 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I enjoy cooking, watching movies, and trying new kinds of sushi! 🍣
