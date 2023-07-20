@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscbr&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 🔨 I'm currently working at Monada to build a new cloud programming language named [Wing](https://www.winglang.io/)!
+- 🔨 I'm currently working at Wing Cloud to build a new cloud programming language named [Winglang](https://www.winglang.io/)!
 - ✍️ I sometimes write about software engineering and other topics on my [blog](https://rybicki.io/blog/) and on [Twitter](https://twitter.com/rybickic).
 - 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/), or [Twitter](https://twitter.com/rybickic)
 - 😄 Pronouns: he/him/his
