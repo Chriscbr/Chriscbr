@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscbr&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- ✍️ I sometimes write about software engineering and other topics on my [blog](https://rybicki.io/blog/) and on [Twitter](https://twitter.com/rybickic).
+- ✍️ I sometimes write about software engineering and other topics on my [blog](https://rybicki.io/blog/).
 - 📫 How to reach me: email or [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I enjoy cooking, running, watching movies, and trying new kinds of sushi! 🍣
