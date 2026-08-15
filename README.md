@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - ✍️ I sometimes write about software engineering and other topics on my [blog](https://rybicki.io/blog/).
 - 📫 How to reach me: email or [LinkedIn](https://www.linkedin.com/in/christopher-rybicki/)
 - 😄 Pronouns: he/him/his
+- 🗽 Location: I've been living in NYC since Fall of 2024, but in the past I've also lived in Boston and Seattle.
 - ⚡ Fun facts: I enjoy cooking, running, watching movies, and trying new kinds of sushi! 🍣
